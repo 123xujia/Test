@@ -1,3 +1,11 @@
+<object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
+    <embed src="https://groupesaur.sharepoint.com/:b:/r/sites/basedeconnaissancedugroupesaur/Documents%20partages/CC.pdf?csf=1&e=gDpTZ4">
+        <p>This browser does not support PDFs. Please download the PDF to view it: <a href="http://yoursite.com/the.pdf">Download PDF</a>.</p>
+    </embed>
+</object>
+
+
+
 ## Welcome to GitHub Pages
 
 You can use the [editor on GitHub](https://github.com/123xujia/Test/edit/master/index.md) to maintain and preview the content for your website in Markdown files.
